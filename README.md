@@ -1,6 +1,6 @@
 # SONTOK
 
-![header](./assets/sontok_logo.png){width=30%}
+![header](./assets/sontok_logo.png)
 
 🎈 프로젝트명 : SONTOK
 
